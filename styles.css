@@ -42,7 +42,7 @@ body {
 .navbar .nav-links a {
     color: white;
     text-decoration: none;
-    padding: 6px 12px;
+    padding: 3px 6px;
     border-radius: 8px;
     transition: background 0.3s ease, transform 0.3s ease;
 }
@@ -291,7 +291,7 @@ footer .social-links a:hover {
 
     .navbar .nav-links {
         flex-direction: column;
-        gap: 8px;
+        gap: 5px;
         width: 100%;
     }
 
